@@ -5,7 +5,7 @@
 /.editorconfig
 /.babelrc
 /www
-/src
+src
 /scripts
 /examples
 /build
